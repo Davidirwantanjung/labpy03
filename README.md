@@ -41,7 +41,7 @@ syntax latihan 2 sebagai berikut :
 ![codinganlatihan2](https://user-images.githubusercontent.com/45660042/53167692-4a43ac80-360b-11e9-9989-6a660d5cc4b1.PNG)
 
 hasil out put latihan 2 ketika di runtime sebagai berikut :
-![codinganlatihan2](https://user-images.githubusercontent.com/45660042/53167692-4a43ac80-360b-11e9-9989-6a660d5cc4b1.PNG)
+![hasilrunlatihan2](https://user-images.githubusercontent.com/45660042/53167698-50398d80-360b-11e9-9819-b620a6a6dc3b.PNG)
 
 
 ALGORITMA Program1
