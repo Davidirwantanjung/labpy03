@@ -9,14 +9,17 @@ Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi pada saat r
 3. Memasukan/ import fungsi RANDOM terlebih dahulu
 4. Deklarasi integer , masukkan jumlah n :
 5. Memasukan deskripsi kombinasi for untuk menyelesaikannya.
-6. Memasukan nilai jumlah (n) : 7
-7. Mencetak data ke 1 sampai 7 dengan hasil nilai kurang dari 0,5.
+6. Memasukan nilai jumlah (n) : 6
+7. Mencetak data ke 1 sampai 6 dengan hasil nilai kurang dari 0,5.
 8. Selesai
 
 syntax latihan 1 sebagai berikut :
 ![codinganlatihan1](https://user-images.githubusercontent.com/45660042/53167678-4021ae00-360b-11e9-86b3-1c60abcf095b.PNG)
 
 hasil out put latihan 1 sebagai berikut :
+
+![hasilrunlatihan1](https://user-images.githubusercontent.com/45660042/53167687-46b02580-360b-11e9-903c-ac1cbbbb214b.PNG)
+
 
 ## Latihan 2 :
 
@@ -35,8 +38,11 @@ Algoritma latihan 2:
 9.selesai
 
 syntax latihan 2 sebagai berikut :
+![codinganlatihan2](https://user-images.githubusercontent.com/45660042/53167692-4a43ac80-360b-11e9-9989-6a660d5cc4b1.PNG)
 
 hasil out put latihan 2 ketika di runtime sebagai berikut :
+![codinganlatihan2](https://user-images.githubusercontent.com/45660042/53167692-4a43ac80-360b-11e9-9989-6a660d5cc4b1.PNG)
+
 
 ALGORITMA Program1
 
