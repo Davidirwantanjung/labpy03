@@ -1,1 +1,1 @@
-disini harusnya nulisnya
+penjelasn progam 
