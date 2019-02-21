@@ -14,6 +14,7 @@ Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi pada saat r
 8. Selesai
 
 syntax latihan 1 sebagai berikut :
+![codinganlatihan1](https://user-images.githubusercontent.com/45660042/53167678-4021ae00-360b-11e9-86b3-1c60abcf095b.PNG)
 
 hasil out put latihan 1 sebagai berikut :
 
