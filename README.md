@@ -13,7 +13,7 @@ Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi pada saat r
 7. Mencetak data ke 1 sampai 6 dengan hasil nilai kurang dari 0,5.
 8. Selesai
 
-syntax latihan 1 sebagai berikut :
+syntax latihan 1 seperti gambar di atas :
 ![codinganlatihan1](https://user-images.githubusercontent.com/45660042/53167678-4021ae00-360b-11e9-86b3-1c60abcf095b.PNG)
 
 hasil out put latihan 1 sebagai berikut :
@@ -65,3 +65,10 @@ ALGORITMA Program1
 13. Selesai
 
 syntax program1 sebagai berikut :
+![codinganprogam1](https://user-images.githubusercontent.com/45660042/53167710-53cd1480-360b-11e9-8cd5-06c1a3667af4.PNG)
+
+hasil out put progam 1 ketika di runtime adalah sebagai berikut :
+
+![hasilrunprogam1](https://user-images.githubusercontent.com/45660042/53167713-59c2f580-360b-11e9-8bed-5e1b2d5df430.PNG)
+
+
